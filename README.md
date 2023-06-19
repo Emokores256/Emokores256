@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emokor Steven
+- 👋 Hi, I’m Steven Emokor
 - Software Developer
 - email: emokores256@gmail.com
 - Looking to collaborate more...
